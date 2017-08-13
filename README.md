@@ -7,8 +7,8 @@
 
 Function | GPIO | NodeMCU
 --- | --- | ---
-RCWL-0516 out to ESP01 throw 1K ohm resistor | 2 | 4
-Led throw 100 ohm resistor | 0 | 3
+RCWL-0516 out to ESP01 through 1K ohm resistor | 2 | 4
+Led through 100 ohm resistor | 0 | 3
 
 
 ## Hardware
